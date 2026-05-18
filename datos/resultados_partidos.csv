@@ -1,0 +1,11 @@
+equipo_local,equipo_visitante,goles_local,goles_visitante
+Boca,River,2,1
+Racing,Independiente,1,1
+San Lorenzo,Huracan,0,2
+River,Racing,3,2
+Independiente,Boca,0,1
+Huracan,San Lorenzo,1,1
+Boca,Racing,2,0
+River,Independiente,4,1
+Huracan,Boca,0,2
+San Lorenzo,River,1,2
